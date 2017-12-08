@@ -7,8 +7,8 @@ The project is created to learning *Javascript* and *Python3*, but beginning wit
 ### 2. *Javascript*
 ### 3. *Python3*   
 #### Tips:
-##### 1. Make sure that **Tab = 4 Backspace**.
-##### 2. Python program is **sensitive** to case.
+##### 1. Make sure that *Tab = 4 Backspace*.
+##### 2. Python program is *sensitive* to case.
 ## Ⅱ. Demos
 ### 1/33. Shopping
   Description:       
